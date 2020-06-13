@@ -1,0 +1,93 @@
+.header{
+    background-color:blue;
+   display:flex;
+  justify-content: space-evenly;
+   word-spacing:6px;
+   text-align: center;
+   border:solid;
+   border-width:16px;
+   border-style:ridge;
+   color:brown;
+   letter-spacing:10px;
+}
+.para{
+     background-color:black;
+   display:flex;
+  justify-content: space-evenly;
+   word-spacing:6px;
+   text-align: center;
+    text-indent: 4em;
+   border:solid;
+   border-width:16px;
+   border-style:solid;
+   color:white;
+   border-color:black;
+     text-transform: capitalize;
+     text-decoration: underline overline ;
+     text-decoration-style:double;
+     
+}
+.para1{
+     background-color:orange;
+   display:flex;
+  justify-content: space-evenly;
+   word-spacing:6px;
+   text-align: center;
+    text-indent: 4em;
+   border:solid;
+   border-width:16px;
+   border-style:solid;
+   color:white;
+   border-color:black;
+     text-transform: capitalize;
+     text-decoration: underline overline ;
+     text-decoration-style:wavy;
+}
+.para3{
+     background-color:black;
+   display:flex;
+  justify-content: space-evenly;
+   word-spacing:6px;
+   text-align: center;
+    text-indent: 4em;
+   border:solid;
+   border-width:16px;
+   border-style:solid;
+   color:white;
+   border-color:black;
+    
+}
+.para4{
+     background-color:darkgreen;
+   display:flex;
+  justify-content: space-evenly;
+   word-spacing:6px;
+   text-align: center;
+    text-indent: 4em;
+   border:solid;
+   border-width:16px;
+   border-style:solid;
+   color:white;
+   border-color:black;
+     text-transform: capitalize;
+     text-decoration: underline overline ;
+     text-decoration-style:double;
+     
+}
+.para2{
+   opacity:0;
+}
+.full{
+   background-color:orange;
+}
+.img{
+     background-color:black;
+   display:flex;
+  justify-content: space-evenly;
+   text-align: center;
+   border:solid;
+   border-width:0px;
+   border-style:solid;
+   color:white;
+   border-color:black;
+}
